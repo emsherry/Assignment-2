@@ -70,9 +70,6 @@ int main(){
     BST tree;
     tree.InsertNode(12);
     tree.InsertNode(8);
-    tree.InsertNode(24);
-    tree.InsertNode(8);
-    tree.InsertNode(20`);
 
     return 0;
 }
